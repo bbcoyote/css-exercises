@@ -1,0 +1,18 @@
+.number {
+  background-color: rgb(192, 140, 140);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#id-1 {
+  color: rgb(0, 0, 200);
+  font-size: 36px;
+}
+
+.b {
+  font-size: 24px;
+}
+
+#id-2 {
+  background-color: rgb(114, 184, 114);
+  font-size: 24px;
+  font-weight: 700;
+}
